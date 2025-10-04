@@ -12,7 +12,7 @@ Geospatial Insights: Visualize listings geographically to spot high-price and hi
 
 🛠️ Technologies Used
 
-Python, Jupyter Notebook, pandas (Data manipulation), matplotlib & seaborn (Data visualization)
+Python, Jupyter Notebook, pandas (Data manipulation), Numpy (Mathematical operations), matplotlib & seaborn (Data visualization)
 
 📊 Key Visualizations
 The analysis includes several plots essential for understanding the dataset:
